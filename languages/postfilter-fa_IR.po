@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Filter v1\n"
+"POT-Creation-Date: 2019-10-08 23:18+0330\n"
+"PO-Revision-Date: 2019-10-08 23:24+0330\n"
+"Last-Translator: \n"
+"Language-Team: cupcodeir@gmail.com\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cupcode-options.php:8 cupcode-options.php:133
+msgid "Post Filter Settings"
+msgstr "تنظیمات فیلتر پست"
+
+#: cupcode-options.php:9
+msgid "Post Filter"
+msgstr "فیلتر پست"
+
+#: cupcode-options.php:34 pf-about.php:5
+msgid "Donate"
+msgstr "حمایت"
+
+#: cupcode-options.php:60
+msgid "Saving..."
+msgstr "در حال ذخیره..."
+
+#: cupcode-options.php:61
+msgid "Settings Saved!"
+msgstr "تنظیمات ذخیره شد!"
+
+#: cupcode-options.php:62
+msgid "Don't leave anything empty!"
+msgstr "چیزی را خالی نگذارید!"
+
+#: cupcode-options.php:63
+msgid "Faild"
+msgstr "ناموفق"
+
+#: cupcode-options.php:111
+#, php-format
+msgid "To use Post Filter, start from <a href=\"%s\">Settings</a>."
+msgstr "برای استفاده از فیلتر پست، <a href=\"%s\">تنظیمات</a> را انجام دهید."
+
+#: cupcode-options.php:136
+msgid "Which post types should be considered?"
+msgstr "تنظیمات روی کدام نوع پست ها اعمال شود؟"
+
+#: cupcode-options.php:157
+msgid "* Select multiple options by pressing CTRL (Windows) or Command (Mac)"
+msgstr ""
+"* با نگه داشتن کلید CTRL (در ویندوز) یا Command (در مک) می توانید بیش از یک "
+"مورد را انتخاب کنید"
+
+#: cupcode-options.php:160
+msgid "Which words should be filtered?"
+msgstr "چه واژه هایی باید فیلتر شوند؟"
+
+#: cupcode-options.php:162
+msgid "Enter words here..."
+msgstr "واژه ها را اینجا وارد کنید..."
+
+#: cupcode-options.php:166
+msgid "* Seperate with comma"
+msgstr "* با کاما جدا کنید"
+
+#: cupcode-options.php:169
+msgid "What to do if detected?"
+msgstr "اگر پیدا شد، چه اقدامی شود؟"
+
+#: cupcode-options.php:174
+msgid "Replace with"
+msgstr "جایگزین شود با  "
+
+#: cupcode-options.php:181
+msgid " Move to Drafts"
+msgstr " به پیش نویس ها منتقل شود"
+
+#: cupcode-options.php:185
+msgid "How to search for words?"
+msgstr "جستجو چگونه انجام شود؟"
+
+#: cupcode-options.php:190
+msgid "Strict mode"
+msgstr "سخت گیرانه"
+
+#: cupcode-options.php:192
+msgid "Finds \"are\" in \"aware\""
+msgstr "\"اسپم\" را در \"اسپمر\" پیدا می کند"
+
+#: cupcode-options.php:197
+msgid " Search for Words"
+msgstr "جستجو برای کلمات"
+
+#: cupcode-options.php:199
+msgid "Finds \"are\" in \"How are you?\""
+msgstr "\"اسپم\" را در جمله \"آیا شما اسپم می کنید؟\" پیدا می کند"
+
+#: cupcode-options.php:205
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: cupcode-post-filter.php:20
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: pf-about.php:6
+msgid "You can donate me, if you found this plugin helpful😉"
+msgstr "اگر این افزونه برایتان کاربردی بود، می توانید از من حمایت کنید😉"
+
+#~ msgid "About us"
+#~ msgstr "درباره ما"
+
+#~ msgid "This plugin is made by Artin."
+#~ msgstr "این افزونه توسط آرتین ساخته شده است."
+
+#~ msgid ""
+#~ "If you want to support the developer of this plugin, you can donate with "
+#~ "cryptocurrencies"
+#~ msgstr ""
+#~ "اگر می خواهید از سازنده افزونه حمایت کنید، می توانید این کار را از طریق "
+#~ "رمزارز انجام دهید"
+
+#~ msgid ""
+#~ "You can send any feedback about this plugin <a href=\"%s\">using this "
+#~ "link</a>"
+#~ msgstr ""
+#~ "می توانید دیدگاه های خود را درباره این افزونه  <a href=\"%s\">به این لینک "
+#~ "بفرستید</a>"

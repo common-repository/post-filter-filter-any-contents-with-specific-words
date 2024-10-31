@@ -1,0 +1,124 @@
+/*
+main CSS Styles
+
+
+
+
+*/
+
+* {
+    font-size: small;
+
+}
+
+.post-filter-which-post-types {
+
+    margin: 20px auto;
+
+}
+
+.pf_note {
+
+    margin: 20px 0 0 0;
+    font-size: xx-small;
+    color: #1a2634;
+
+}
+
+select option {
+    padding: 5px;
+    margin: 10px;
+}
+
+option:checked {
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.pv-post-typle-select {
+    padding: 10px 5px 0 !important;
+    height: 300px !important;
+}
+
+.pv-post-typle-select::-webkit-scrollbar {
+    width: 4px;
+    background: #f5f5f5;
+}
+
+.pv-post-typle-select::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+
+.pv-post-typle-select::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.3);
+    background: #f5f5f5;
+}
+
+.margin-bottom-30 {
+
+    margin-bottom: 30px;
+
+}
+
+.dashicons-admin-tools {
+    font-size: 40px;
+    display: inline;
+}
+
+.wrap h1 {
+
+    display: unset;
+
+}
+
+input[name= 'action-replace-word'] {
+
+    margin-bottom: 15px;
+
+}
+
+.pf-about-container img {
+
+    width: 2%;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.crypto-address {
+    display: inline;
+    line-height: 45px;
+    font-weight: 700;
+}
+
+.post-filter-which-post-types, .post-filter-black-list, .post-filter-action-choices, .post-filter-search-modes {
+    background: white;
+    padding: 20px;
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
